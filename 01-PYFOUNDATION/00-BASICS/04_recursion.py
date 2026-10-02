@@ -1,7 +1,7 @@
 def fact(n):
     result=1
     if(n==1):
-        return 1
+        return 
     return n*fact(n-1)
 # print(fact(5))
 
